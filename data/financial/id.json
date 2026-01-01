@@ -223,7 +223,7 @@
     },
     {
       "apiName": "Tradingview",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://www.tradingview.com/rest-api-spec",
       "developer": {
         "name": "Tradingview",
